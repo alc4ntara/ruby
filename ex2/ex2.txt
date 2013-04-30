@@ -1,0 +1,7 @@
+3 classes
+2 exceptions modularizadas
+3 controllers
+Usar as exceptions nos construtores das classes
+- Lançar as exceptions nos construtores das classes
+- Usar as 3 classes em cada controller
+- Tratar as exception nos controllers
